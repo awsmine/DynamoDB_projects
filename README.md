@@ -7,3 +7,13 @@ A repo of of all my DynamoDB Projects
 2. DynamoDB and its integration with Lambda function.
 https://dev.to/aws-builders/dynamodb-and-its-integration-with-lambda-function-3f8i
 
+3. DynamoDB and its Control Pane Operations - 1
+https://dev.to/aws-builders/dynamodb-and-its-control-pane-operations-1-36bk
+
+4. Creating an AWS Lambda function to process records in Amazon DynamoDB stream 
+https://dev.to/aws-builders/creating-an-aws-lambda-function-to-process-records-in-amazon-dynamodb-stream-53pk
+
+5. How to use AWS Backup cross-account backup to copy and restore DynamoDB tables between AWS accounts
+https://dev.to/aws-builders/how-to-use-aws-backup-cross-account-backup-to-copy-and-restore-dynamodb-tables-between-aws-accounts-54fo
+
+

@@ -16,4 +16,7 @@ https://dev.to/aws-builders/creating-an-aws-lambda-function-to-process-records-i
 5. How to use AWS Backup cross-account backup to copy and restore DynamoDB tables between AWS accounts
 https://dev.to/aws-builders/how-to-use-aws-backup-cross-account-backup-to-copy-and-restore-dynamodb-tables-between-aws-accounts-54fo
 
+6. How to import CSV data into DynamoDB using Lambda and S3 Event triggers
+https://dev.to/aws-builders/how-to-import-csv-data-into-dynamodb-using-lambda-and-s3-event-triggers-24io
+
 

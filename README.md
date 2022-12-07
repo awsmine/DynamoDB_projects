@@ -19,4 +19,4 @@ https://dev.to/aws-builders/how-to-use-aws-backup-cross-account-backup-to-copy-a
 6. How to import CSV data into DynamoDB using Lambda and S3 Event triggers
 https://dev.to/aws-builders/how-to-import-csv-data-into-dynamodb-using-lambda-and-s3-event-triggers-24io
 
-
+7. DynamoDB and its Control Pane Operations - 2 https://dev.to/aws-builders/dynamodb-and-its-control-pane-operations-2-327b

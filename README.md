@@ -20,3 +20,5 @@ https://dev.to/aws-builders/how-to-use-aws-backup-cross-account-backup-to-copy-a
 https://dev.to/aws-builders/how-to-import-csv-data-into-dynamodb-using-lambda-and-s3-event-triggers-24io
 
 7. DynamoDB and its Control Pane Operations - 2 https://dev.to/aws-builders/dynamodb-and-its-control-pane-operations-2-327b
+
+8. Working with DynamoDB Transations https://dev.to/aws-builders/working-with-dynamodb-transations-29mp

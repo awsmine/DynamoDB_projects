@@ -24,3 +24,5 @@ https://dev.to/aws-builders/how-to-import-csv-data-into-dynamodb-using-lambda-an
 8. Working with DynamoDB Transations https://dev.to/aws-builders/working-with-dynamodb-transations-29mp
 
 9. DynamoDB and its Data Pane Operations - 1 https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-1-2772
+
+10. DynamoDB and its Data Pane Operations - 2 https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-2-4maa

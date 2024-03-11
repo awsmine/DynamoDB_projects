@@ -28,3 +28,5 @@ https://dev.to/aws-builders/how-to-import-csv-data-into-dynamodb-using-lambda-an
 10. DynamoDB and its Data Pane Operations - 2 https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-2-4maa
 
 11. DynamoDB and its Data Pane Operations - 3 https://dev.to/aws-builders/dynamodb-and-its-data-pane-operations-3-2eh7
+
+12. How to retrieve DynamoDB items using secrets stored in AWS Secrets Manager with AWS Lambda - 1 ---> https://dev.to/aws-builders/how-to-retrieve-dynamodb-items-using-secrets-stored-in-aws-secrets-manager-with-aws-lambda-1-4n6b
